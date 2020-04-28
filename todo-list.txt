@@ -1,0 +1,6 @@
+1. Añadir un evento
+2. Obtener los valores introducidos
+3. Añadir los valores a nuestro estructura de datos
+4. Añadir el valor a la interfaz
+5. Calcular
+6. Actualizar la interfaz
